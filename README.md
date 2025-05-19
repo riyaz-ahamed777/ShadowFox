@@ -1,6 +1,6 @@
 # ShadowFox
 
-Welcome to my repository for the *Java Development Internship* at *ShadowFox Technologies*. This internship helped me strengthen my core Java skills through practical, task-based learning—from beginner-level programs to advanced real-world applications.
+Welcome to my repository for the *Java Development Internship* at *ShadowFox*. This internship helped me strengthen my core Java skills through practical, task-based learning—from beginner-level programs to advanced real-world applications.
 
 ## Internship Overview
 
