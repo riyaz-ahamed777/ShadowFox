@@ -11,3 +11,35 @@ This internship was structured around three levels of tasks:
 - *Advanced Level:* Real-world application development using networking, REST APIs, and microservices.
 
 Each task was completed according to the internship guidelines, and the code was written, tested, and documented independently.
+
+---
+
+## Advanced Task Completed: Real-time Chat Application
+
+### Project Overview
+
+This Java-based real-time chat application allows multiple clients to connect to a central server and communicate simultaneously. It is built using *Java Socket Programming* and *Multithreading*.
+
+### Key Features
+
+- Real-time message exchange
+- Multiple client support via threads
+- Username-based identification
+- Notifications for user join and exit events
+- Efficient client handling using a Set<ClientHandler>
+
+### Technologies Used
+
+- Java SE
+- Socket Programming
+- Multithreading
+- Command-Line Interface (CLI)
+
+### Key Learnings
+
+- Network programming using sockets
+- Handling concurrent client connections
+- Message broadcasting and synchronization
+- Clean code structure using separate classes for server, client, and handler
+
+---
