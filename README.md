@@ -12,7 +12,6 @@ This internship was structured around three levels of tasks:
 
 Each task was completed according to the internship guidelines, and the code was written, tested, and documented independently.
 
----
 
 ## Advanced Task Completed: Real-time Chat Application
 
